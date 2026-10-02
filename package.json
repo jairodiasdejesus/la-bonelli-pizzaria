@@ -1,0 +1,33 @@
+{
+  "name": "la-bonelli-pizzaria",
+  "version": "1.0.0",
+  "description": "Website moderno, responsivo e interativo da La Bonelli Pizzaria com cardápio dinâmico, carrinho de compras e integração direta com WhatsApp para pedidos.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve -l 3000 .",
+    "preview": "npx serve -s ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairodiasdejesus/la-bonelli-pizzaria.git"
+  },
+  "keywords": [
+    "pizzaria",
+    "delivery",
+    "la-bonelli",
+    "sao-paulo",
+    "jardim-sao-luis",
+    "cardapio-online",
+    "pedidos-whatsapp",
+    "html5",
+    "css3",
+    "vanilla-js"
+  ],
+  "author": "jairodiasdejesus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jairodiasdejesus/la-bonelli-pizzaria/issues"
+  },
+  "homepage": "https://github.com/jairodiasdejesus/la-bonelli-pizzaria#readme"
+}
